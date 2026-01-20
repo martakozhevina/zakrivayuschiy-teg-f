@@ -61,6 +61,7 @@
   justify-content: flex-start;
   align-items: center;
   gap: 50px;
+  margin-block-end: var(--margin);
 }
 
 .card {
@@ -247,8 +248,6 @@
 }
 
 .card__like-button {
-  border: none;
-  background-color: transparent;
   padding: 10.5px 0;
   inline-size: 130px;
   border: 2px solid var(--accent-color);
@@ -275,7 +274,6 @@
 
 .card__like-button:focus-visible {
   outline: none;
-  box-shadow: none;
   box-shadow: 2px 2px 0px 0px var(--accent-color);
 }
 
@@ -297,8 +295,6 @@
 }
 
 .button__save {
-  border: none;
-  background-color: transparent;
   padding: 15px 18px;
   border: 2px solid var(--accent-color);
   background-color: var(--bg-color);
@@ -324,7 +320,6 @@
 
 .button__save:focus-visible {
   outline: none;
-  box-shadow: none;
   box-shadow: 2px 2px 0px 0px var(--accent-color);
 }
 
@@ -371,8 +366,6 @@
   justify-self: stretch;
   display: flex;
   justify-content: center;
-  border: none;
-  background-color: transparent;
   padding-top: 10.5px;
   padding-bottom: 10.5px;
   border: 2px solid var(--accent-color);
@@ -398,7 +391,6 @@
 
 .dialog__button:focus-visible {
   outline: none;
-  box-shadow: none;
   box-shadow: 2px 2px 0px 0px var(--accent-color);
 }
 

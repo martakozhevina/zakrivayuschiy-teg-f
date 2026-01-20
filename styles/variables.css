@@ -5,14 +5,14 @@
     --main-weight: 410;
     --heading-weight: 715;
     --main-text-color: #000;
+    --text-color: #fff;
     --background-gradient: repeating-linear-gradient(to right, #d3d3d3, #d3d3d3 2px, rgb(211 211 211 / 0) 2px, rgb(211 211 211 / 0) 4px), 
     repeating-linear-gradient(to bottom, #d3d3d3, #d3d3d3 2px, rgb(211 211 211 / 0) 2px, rgb(211 211 211 / 0) 4px),
     linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
-    --block-width: clamp(375px, 48.6%, 700px);
-    --margin: 100px;
-    --text-color: #fff;
     --bg-color: #fff;
     --accent-color: #000;
+    --block-width: clamp(375px, 48.6%, 700px);
+    --margin: 100px;
     --contour-color: #000;
     --animation-fill-color: rgba(255, 0, 0, 1);
 }
