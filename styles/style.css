@@ -411,10 +411,6 @@ dialog::backdrop {
     min-block-size: 758px;
   }
 
-  .button__save {
-    flex-direction: column;
-  }
-
   .save-icon {
     width: 28px;
     height: 28px;
@@ -423,5 +419,4 @@ dialog::backdrop {
   .save-group {
     flex-direction: column;
   }
-
 }
