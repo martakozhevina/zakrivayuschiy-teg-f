@@ -13,3 +13,4 @@ https://github.com/martakozhevina/zakrivayuschiy-teg-f.git
 Создание и стилизация модального окна,
 Принемение фильтров к изображениям,
 Адаптация сайта для мобильной версии
+Опубликованный сайт: https://martakozhevina.github.io/zakrivayuschiy-teg-f/
